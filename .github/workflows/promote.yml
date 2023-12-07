@@ -16,8 +16,8 @@ jobs:
           node-version: "lts/*"
       - name: Merge
         run: |
-          git config --global user.name 'auto-bob'
-          git config --global user.email 'bob@users.noreply.github.com'
+          git config --global user.name 'bobgobills'
+          git config --global user.email 'bobgobills@users.noreply.github.com'
           git checkout prod
           git merge --no-ff main
       - name: PR

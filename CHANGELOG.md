@@ -1,3 +1,10 @@
+# [1.0.0-main.3](https://github.com/bobgobills/shapebox/compare/v1.0.0-main.2...v1.0.0-main.3) (2023-12-07)
+
+
+### Features
+
+* BuildCounter ([9966e0e](https://github.com/bobgobills/shapebox/commit/9966e0ed4a5a7e0ee160ce202e2d63e156913d4c))
+
 # [1.0.0-main.2](https://github.com/bobgobills/shapebox/compare/v1.0.0-main.1...v1.0.0-main.2) (2023-12-07)
 
 

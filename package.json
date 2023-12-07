@@ -12,7 +12,8 @@
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
     "build": "tsup src/index.ts --format cjs --dts",
     "semantic-release": "semantic-release",
-    "bump": "./bin/bump.sh"
+    "bump": "./bin/bump.sh",
+    "fresh": "./bin/fresh.sh"
   },
   "author": "Bob",
   "license": "ISC",

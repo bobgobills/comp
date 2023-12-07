@@ -1,0 +1,25 @@
+name: Promote
+on:
+  workflow_dispatch:
+jobs:
+  Promote:
+    name: Promote
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+      - name: Merge
+        run: |
+          git config --global user.name 'auto-bob'
+          git config --global user.email 'bob@users.noreply.github.com'
+          git checkout prod
+          git merge --no-ff main
+      - name: PR
+        uses: peter-evans/create-pull-request@v5
+

@@ -1,0 +1,17 @@
+{
+  "name": "shapebox",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "private": false,
+  "description": "Component library of shapes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobgobills/comp.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

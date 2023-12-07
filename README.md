@@ -1,4 +1,6 @@
-# comp
+# shapebox
+
+A component library of shapes
 
 ## Setup
 
@@ -9,5 +11,5 @@ yarn install
 ## Usage
 
 ```tsx
-import { Circle, Square } from "comp";
+import { Circle, Square } from "shapebox";
 ```

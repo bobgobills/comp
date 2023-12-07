@@ -1,3 +1,10 @@
+## [1.0.1-main.1](https://github.com/bobgobills/shapebox/compare/v1.0.0...v1.0.1-main.1) (2023-12-07)
+
+
+### Bug Fixes
+
+* fresh ([e59f9bb](https://github.com/bobgobills/shapebox/commit/e59f9bb209af5765efd3652396c5cea928e61908))
+
 # 1.0.0 (2023-12-07)
 
 

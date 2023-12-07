@@ -11,7 +11,8 @@
     "test": "prettier --check \"**/*.{js,ts,tsx,md}\"",
     "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
     "build": "tsup src/index.ts --format cjs --dts",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "bump": "./bin/bump.sh"
   },
   "author": "Bob",
   "license": "ISC",

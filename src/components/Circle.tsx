@@ -4,7 +4,7 @@ export interface CircleProps {
   color?: string;
 }
 export const Circle = forwardRef<HTMLDivElement, CircleProps>(
-  ({ color = "green" }: CircleProps, ref) => {
+  ({ color = "orange" }: CircleProps, ref) => {
     return (
       <div
         ref={ref}

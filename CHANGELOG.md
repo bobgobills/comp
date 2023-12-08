@@ -1,3 +1,10 @@
+## [1.0.4-main.2](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.1...v1.0.4-main.2) (2023-12-08)
+
+
+### Bug Fixes
+
+* red ([7a989f5](https://github.com/bobgobills/shapebox/commit/7a989f571d29d349b5202bc65df18f89e968ea0b))
+
 ## [1.0.4-main.1](https://github.com/bobgobills/shapebox/compare/v1.0.3...v1.0.4-main.1) (2023-12-08)
 
 

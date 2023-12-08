@@ -1,3 +1,10 @@
+## [1.0.3-main.1](https://github.com/bobgobills/shapebox/compare/v1.0.2...v1.0.3-main.1) (2023-12-08)
+
+
+### Bug Fixes
+
+* green ([2caacf3](https://github.com/bobgobills/shapebox/commit/2caacf38f2233d970ef8a18cf93fabf472472114))
+
 ## [1.0.2](https://github.com/bobgobills/shapebox/compare/v1.0.1...v1.0.2) (2023-12-07)
 
 

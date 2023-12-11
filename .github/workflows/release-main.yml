@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ssh-key: ${{secrets.Default}}
+          ssh-key: ${{secrets.DEPLOY}}
           fetch-depth: 0
       - name: Delay
         run: |

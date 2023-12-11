@@ -8,6 +8,11 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
+      - name: Delay
+        run: |
+          echo 'start delay'
+          sleep 100
+          echo 'end delay'
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -22,11 +27,6 @@ jobs:
         run: yarn test
       - name: Build
         run: yarn build
-      - name: Add delay
-        run: |
-          echo 'start delay'
-          sleep 1
-          echo 'end delay'
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

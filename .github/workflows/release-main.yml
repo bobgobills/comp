@@ -25,7 +25,7 @@ jobs:
       - name: Add delay
         run: |
           echo 'start delay'
-          sleep 10
+          sleep 60
           echo 'end delay'
       - name: Release
         env:

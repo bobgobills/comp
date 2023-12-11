@@ -11,7 +11,7 @@ jobs:
       - name: Delay
         run: |
           echo 'start delay'
-          sleep 100
+          sleep 1
           echo 'end delay'
       - name: Checkout
         uses: actions/checkout@v3

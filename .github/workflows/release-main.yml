@@ -15,7 +15,7 @@ jobs:
       - name: Delay
         run: |
           echo 'start delay'
-          sleep 50
+          sleep 1
           echo 'end delay'
       - name: Setup Node.js
         uses: actions/setup-node@v3

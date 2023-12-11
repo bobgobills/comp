@@ -1,3 +1,10 @@
+## [1.0.4-main.9](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.8...v1.0.4-main.9) (2023-12-11)
+
+
+### Bug Fixes
+
+* safe merge ([559ceed](https://github.com/bobgobills/shapebox/commit/559ceeda6239d46022441c745efda24282ef7839))
+
 ## [1.0.4-main.8](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.7...v1.0.4-main.8) (2023-12-11)
 
 

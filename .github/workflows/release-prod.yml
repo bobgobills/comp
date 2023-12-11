@@ -23,7 +23,11 @@ jobs:
       - name: Build
         run: yarn build
       - name: Check for safe merge
-        run: git merge origin/main --no-ff --no-commit
+        run: |
+          git config --global user.name 'bobgobills'
+          git config --global user.email 'bobgobills@users.noreply.github.com'
+          git merge origin/main --no-ff --no-commit
+          git merge --abort
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

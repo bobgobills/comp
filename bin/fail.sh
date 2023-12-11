@@ -2,5 +2,5 @@
 
 echo "inside fail.sh"
 
-exit 1
+exit 0
 

@@ -1,3 +1,32 @@
+## [1.0.4-main.4](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.3...v1.0.4-main.4) (2023-12-11)
+
+
+### Bug Fixes
+
+* prod checks for safe merge ([473da44](https://github.com/bobgobills/shapebox/commit/473da445a95ee14c8cdd7aa709c05d50be5347d1))
+
+## [1.0.4-main.3](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.2...v1.0.4-main.3) (2023-12-11)
+
+
+### Bug Fixes
+
+* fail ([0fea735](https://github.com/bobgobills/shapebox/commit/0fea735dca0ba87ffd9d3976f84ca25ffcfc5b79))
+* fail succeeds ([71ab2e2](https://github.com/bobgobills/shapebox/commit/71ab2e29b2d680a67c758d486001e400ed4aafb2))
+
+## [1.0.4-main.2](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.1...v1.0.4-main.2) (2023-12-08)
+
+
+### Bug Fixes
+
+* red ([7a989f5](https://github.com/bobgobills/shapebox/commit/7a989f571d29d349b5202bc65df18f89e968ea0b))
+
+## [1.0.4-main.1](https://github.com/bobgobills/shapebox/compare/v1.0.3...v1.0.4-main.1) (2023-12-08)
+
+
+### Bug Fixes
+
+* **bump:** 2 ([5e1f429](https://github.com/bobgobills/shapebox/commit/5e1f42942dd81c86e0c4a404c24ad893cb389b44))
+
 ## [1.0.3](https://github.com/bobgobills/shapebox/compare/v1.0.2...v1.0.3) (2023-12-08)
 
 

@@ -1,3 +1,11 @@
+## [1.0.4-main.3](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.2...v1.0.4-main.3) (2023-12-11)
+
+
+### Bug Fixes
+
+* fail ([0fea735](https://github.com/bobgobills/shapebox/commit/0fea735dca0ba87ffd9d3976f84ca25ffcfc5b79))
+* fail succeeds ([71ab2e2](https://github.com/bobgobills/shapebox/commit/71ab2e29b2d680a67c758d486001e400ed4aafb2))
+
 ## [1.0.4-main.2](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.1...v1.0.4-main.2) (2023-12-08)
 
 

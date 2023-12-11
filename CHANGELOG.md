@@ -1,3 +1,10 @@
+## [1.0.4-main.5](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.4...v1.0.4-main.5) (2023-12-11)
+
+
+### Bug Fixes
+
+* **bump:** 3 ([59aa760](https://github.com/bobgobills/shapebox/commit/59aa76099db657cdef1845210e0ebd1ed372c52b))
+
 ## [1.0.4-main.4](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.3...v1.0.4-main.4) (2023-12-11)
 
 

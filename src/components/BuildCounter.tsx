@@ -1,4 +1,4 @@
-const count = 5;
+const count = 6;
 const style = {
   height: "30px",
   width: "30px",

@@ -1,3 +1,10 @@
+## [1.0.5-main.1](https://github.com/bobgobills/shapebox/compare/v1.0.4...v1.0.5-main.1) (2023-12-11)
+
+
+### Bug Fixes
+
+* delay ([fe5d07f](https://github.com/bobgobills/shapebox/commit/fe5d07f9177bdea3924ca20421a7ab62dfc91f15))
+
 ## [1.0.4](https://github.com/bobgobills/shapebox/compare/v1.0.3...v1.0.4) (2023-12-11)
 
 

@@ -26,8 +26,7 @@ jobs:
         run: |
           git config --global user.name 'bobgobills'
           git config --global user.email 'bobgobills@users.noreply.github.com'
-          git merge origin/main --no-ff --no-commit
-          git merge --abort
+          ./bin/merge-check.sh
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

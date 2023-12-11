@@ -1,3 +1,24 @@
+## [1.0.4-main.7](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.6...v1.0.4-main.7) (2023-12-11)
+
+
+### Bug Fixes
+
+* **bump:** 4 ([e59a301](https://github.com/bobgobills/shapebox/commit/e59a301ef2ff7ee5da022cf79e33a328ef06b601))
+
+## [1.0.4-main.6](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.5...v1.0.4-main.6) (2023-12-11)
+
+
+### Bug Fixes
+
+* origin ([7bd3eb5](https://github.com/bobgobills/shapebox/commit/7bd3eb5185a0b65f4a2f5d740a13f4ab11ef2ee5))
+
+## [1.0.4-main.5](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.4...v1.0.4-main.5) (2023-12-11)
+
+
+### Bug Fixes
+
+* **bump:** 3 ([59aa760](https://github.com/bobgobills/shapebox/commit/59aa76099db657cdef1845210e0ebd1ed372c52b))
+
 ## [1.0.4-main.4](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.3...v1.0.4-main.4) (2023-12-11)
 
 

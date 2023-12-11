@@ -1,3 +1,21 @@
+## [1.0.4](https://github.com/bobgobills/shapebox/compare/v1.0.3...v1.0.4) (2023-12-11)
+
+
+### Bug Fixes
+
+* **bump:** 2 ([5e1f429](https://github.com/bobgobills/shapebox/commit/5e1f42942dd81c86e0c4a404c24ad893cb389b44))
+* **bump:** 3 ([59aa760](https://github.com/bobgobills/shapebox/commit/59aa76099db657cdef1845210e0ebd1ed372c52b))
+* **bump:** 4 ([e59a301](https://github.com/bobgobills/shapebox/commit/e59a301ef2ff7ee5da022cf79e33a328ef06b601))
+* **bump:** 5 ([b101d8a](https://github.com/bobgobills/shapebox/commit/b101d8afd886593954adad29f4fb7bc1f5e6e8ef))
+* fail ([0fea735](https://github.com/bobgobills/shapebox/commit/0fea735dca0ba87ffd9d3976f84ca25ffcfc5b79))
+* fail succeeds ([71ab2e2](https://github.com/bobgobills/shapebox/commit/71ab2e29b2d680a67c758d486001e400ed4aafb2))
+* merge-check ([4365ebe](https://github.com/bobgobills/shapebox/commit/4365ebe0faa5e8e994b33fc3bffa09f9d3f1fc45))
+* origin ([7bd3eb5](https://github.com/bobgobills/shapebox/commit/7bd3eb5185a0b65f4a2f5d740a13f4ab11ef2ee5))
+* prod checks for safe merge ([473da44](https://github.com/bobgobills/shapebox/commit/473da445a95ee14c8cdd7aa709c05d50be5347d1))
+* red ([7a989f5](https://github.com/bobgobills/shapebox/commit/7a989f571d29d349b5202bc65df18f89e968ea0b))
+* remove failonpurpose ([297ea17](https://github.com/bobgobills/shapebox/commit/297ea170228ae5bdc92c956efcaaba300975d91f))
+* safe merge ([559ceed](https://github.com/bobgobills/shapebox/commit/559ceeda6239d46022441c745efda24282ef7839))
+
 ## [1.0.4-main.10](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.9...v1.0.4-main.10) (2023-12-11)
 
 

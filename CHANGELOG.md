@@ -1,3 +1,11 @@
+## [1.0.4-main.10](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.9...v1.0.4-main.10) (2023-12-11)
+
+
+### Bug Fixes
+
+* merge-check ([4365ebe](https://github.com/bobgobills/shapebox/commit/4365ebe0faa5e8e994b33fc3bffa09f9d3f1fc45))
+* remove failonpurpose ([297ea17](https://github.com/bobgobills/shapebox/commit/297ea170228ae5bdc92c956efcaaba300975d91f))
+
 ## [1.0.4-main.9](https://github.com/bobgobills/shapebox/compare/v1.0.4-main.8...v1.0.4-main.9) (2023-12-11)
 
 

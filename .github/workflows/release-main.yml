@@ -16,8 +16,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
-      - name: Fail on purpose
-        run: ./bin/fail.sh
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Test

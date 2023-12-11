@@ -1,3 +1,11 @@
+## [1.0.5-main.3](https://github.com/bobgobills/shapebox/compare/v1.0.5-main.2...v1.0.5-main.3) (2023-12-11)
+
+
+### Bug Fixes
+
+* 1 ([e3eec18](https://github.com/bobgobills/shapebox/commit/e3eec187fb5d0576284d031399767b576ff07107))
+* 100 ([7269234](https://github.com/bobgobills/shapebox/commit/7269234a1f39bf21dbe02dcdfa143048b7228c4b))
+
 ## [1.0.5-main.2](https://github.com/bobgobills/shapebox/compare/v1.0.5-main.1...v1.0.5-main.2) (2023-12-11)
 
 

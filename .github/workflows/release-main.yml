@@ -8,15 +8,15 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - name: Delay
-        run: |
-          echo 'start delay'
-          sleep 1
-          echo 'end delay'
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - name: Delay
+        run: |
+          echo 'start delay'
+          sleep 50
+          echo 'end delay'
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
